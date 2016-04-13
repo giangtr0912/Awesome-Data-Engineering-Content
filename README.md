@@ -12,3 +12,6 @@ This paper describes how take the z-value based approximate k-nearest neighbors 
 That paper assumes knowledge of z-values, and cites this more basic z-value k-nearest neighbors search not in a MapReduce framework:
 
    http://cs.sjtu.edu.cn/~yaobin/papers/icde10_knn.pdf
+   
+## Blog post about Flink windows
+https://flink.apache.org/news/2015/12/04/Introducing-windows.html
