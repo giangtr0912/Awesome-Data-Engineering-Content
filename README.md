@@ -3,6 +3,7 @@ Sharing interesting and noteworthy Data Engineering content - namely podcasts, b
 # Table of Contents
 
 # Technologies
+All technologies are listed alphabetically in their given section.
 
 ## Overviews
 * [Data Engineering Ecosystem](http://insightdataengineering.com/blog/pipeline_map.html)
@@ -30,6 +31,29 @@ Sharing interesting and noteworthy Data Engineering content - namely podcasts, b
 
 ## Stream Processing
 
+### Flink
+
+#### Slides
+* [Strata Talk](http://www.slideshare.net/KostasTzoumas/apache-flink-at-strata-san-jose-2016) by Kostas Tzoumas on Flink Streaming's capabilities.
+* [Streaming Benchmark talk](http://www.slideshare.net/JamieGrier/extending-the-yahoo-streaming-benchmark) by Jamie Grier on extending Yahoo's Benchmark
+
+#### Blogs
+* [Asynchronous Snapshots Blog](http://data-artisans.com/high-throughput-low-latency-and-exactly-once-stream-processing-with-apache-flink/) by Data Artisans, and a summary in [the morning paper](https://blog.acolyer.org/2015/08/19/asynchronous-distributed-snapshots-for-distributed-dataflows/)  
+
+#### Papers
+* [Millwheel Paper](http://research.google.com/pubs/pub41378.html) which discusses Low Watermarks for Exactly-Once Semantics
+* [Asynchronous Snapshots Barrier Paper](http://arxiv.org/abs/1506.08603) describing Flink's snapshot algorithm
+* [Chandy-Lamport Paper](http://research.microsoft.com/en-us/um/people/lamport/pubs/chandy.pdf) on Distributed Snapshots, and a summary in [the morning paper](https://blog.acolyer.org/2015/04/22/distributed-snapshots-determining-global-states-of-distributed-systems/)  
+
+### NiFi
+
+### Samza
+
+### Spark Streaming
+
+### Storm
+
+
 ## Ingestion Tools
 
 ## Streaming Platforms
@@ -40,6 +64,28 @@ Sharing interesting and noteworthy Data Engineering content - namely podcasts, b
 #### Podcasts
 
 #### Videos
+
+# Important Algorithms and Theorems
+
+## Distributed Systems
+
+### Paxos
+
+*  [Visualization of Paxos](http://harry.me/blog/2014/12/27/neat-algorithms-paxos/) with explanation
+
+### RAFT
+
+### MapReduce
+
+### Gossip Protocol
+
+### Chandy-Lamport
+
+### Load Balancing Algos
+
+### Transaction
+
+### CAP Theorem
 
 # Background and Interview Prep Resources
 
