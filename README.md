@@ -64,7 +64,7 @@ All technologies are listed alphabetically in their given section.
 #### Podcasts
 
 #### Videos
-[Video] (https://www.youtube.com/watch?v=aJuo_bLSW6s&feature=youtu.be) by Jay Kreps on logs, stream processing and Kafka
+ * [Video] (https://www.youtube.com/watch?v=aJuo_bLSW6s&feature=youtu.be) by Jay Kreps on logs, stream processing and Kafka
 
 # Important Algorithms and Theorems
 
