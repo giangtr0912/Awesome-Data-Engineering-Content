@@ -65,6 +65,21 @@ All technologies are listed alphabetically in their given section.
 
 #### Videos
 
+## Workflow and Scheduling
+
+### Airflow
+
+#### Podcasts
+* [Interview with Maxime Beauchemin](Software Engineering Daily){:target="_blank"} on Airflow, Airpal, and Caravel on Software Engineering Daily. 
+
+### Azkaban
+
+### Luigi
+
+### Oozie
+
+
+
 # Important Algorithms and Theorems
 
 ## Distributed Systems
