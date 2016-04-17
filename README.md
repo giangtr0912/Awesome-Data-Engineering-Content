@@ -10,7 +10,24 @@ All technologies are listed alphabetically in their given section.
 
 ## File Formats
 
+### Avro
+
+### ORCFiles
+
+### Parquet
+
+### Protocol Buffers
+
+### Thrift
+
 ## File Systems
+
+### Hadoop Distributed File System (HDFS)
+
+### Amazon S3
+
+#### Blogs
+* [Excellent summary](https://medium.com/@markobonaci/the-history-of-hadoop-68984a11704) of the history of Hadoop by Marco Bonaci.  This post is also [read as a podcast](http://softwareengineeringdaily.com/2016/02/06/history-of-hadoop/) by Software Engineering Daily.
 
 ## Databases
 
@@ -19,15 +36,44 @@ All technologies are listed alphabetically in their given section.
 
 ### Relational Databases
 
+#### Postgres
+
+#### MySQL
+
 ### Key-Value Databases
+
+#### Redis
+
+#### Riak
 
 ### Column-Family Databases
 
+#### Accumulo
+
+#### Cassandra
+
+#### HBase
+
 ### Graph Databases
+
+#### Neo4j
+
+#### OrientDB
 
 ### Search Tools
 
+#### Elasticsearch
+
+#### Lucene
+
+#### Solr
+
 ## Batch Processing
+
+### Hadoop MapReduce
+
+#### Blogs
+* [Excellent summary](https://medium.com/@markobonaci/the-history-of-hadoop-68984a11704) of the history of Hadoop by Marco Bonaci.  This post is also [read as a podcast](http://softwareengineeringdaily.com/2016/02/06/history-of-hadoop/) by Software Engineering Daily.
 
 ## Stream Processing
 
@@ -35,7 +81,7 @@ All technologies are listed alphabetically in their given section.
 
 #### Slides
 * [Strata Talk](http://www.slideshare.net/KostasTzoumas/apache-flink-at-strata-san-jose-2016) by Kostas Tzoumas on Flink Streaming's capabilities.
-* [Streaming Benchmark talk](http://www.slideshare.net/JamieGrier/extending-the-yahoo-streaming-benchmark) by Jamie Grier on extending Yahoo's Benchmark
+* [Streaming Benchmark talk](http://www.slideshare.net/JamieGrier/extending-the-yahoo-streaming-benchmark) by Jamie Grier on extending Yahoo's Benchmark, based off this [blog](http://data-artisans.com/extending-the-yahoo-streaming-benchmark/)
 
 #### Blogs
 * [Asynchronous Snapshots Blog](http://data-artisans.com/high-throughput-low-latency-and-exactly-once-stream-processing-with-apache-flink/) by Data Artisans, and a summary in [the morning paper](https://blog.acolyer.org/2015/08/19/asynchronous-distributed-snapshots-for-distributed-dataflows/)  
@@ -71,7 +117,7 @@ All technologies are listed alphabetically in their given section.
 ### Airflow
 
 #### Podcasts
-* [Interview with Maxime Beauchemin](Software Engineering Daily){:target="_blank"} on Airflow, Airpal, and Caravel on Software Engineering Daily. 
+* [Interview with Maxime Beauchemin](Software Engineering Daily) on Airflow, Airpal, and Caravel on Software Engineering Daily. 
 
 ### Azkaban
 
@@ -79,11 +125,25 @@ All technologies are listed alphabetically in their given section.
 
 ### Oozie
 
+## Cluster Management and Coordination
 
+### Docker
+
+### Kubernetes
+
+### Mesos
+
+### YARN
+
+### Zookeeper
 
 # Important Algorithms and Theorems
 
+* [List of 100 Seminal Data Engineering Papers](https://www.linkedin.com/pulse/100-open-source-big-data-architecture-papers-anil-madan) from Anil Madan
+
 ## Distributed Systems
+
+* [General Notes](https://github.com/aphyr/distsys-class) from Kyle Kingsbury (Aphyr) on Distributed Sytems
 
 ### Paxos
 
@@ -102,22 +162,42 @@ All technologies are listed alphabetically in their given section.
 ### Gossip Protocol
 
 ### Chandy-Lamport
+* [Chandy-Lamport Paper](http://research.microsoft.com/en-us/um/people/lamport/pubs/chandy.pdf) on Distributed Snapshots, and a summary in [the morning paper](https://blog.acolyer.org/2015/04/22/distributed-snapshots-determining-global-states-of-distributed-systems/) 
 
-### Load Balancing Algos
+### Load Balancing
 
-### Transaction
+### Transactions
 
 ### CAP Theorem
+* [Blog](http://blog.thislongrun.com/2015/03/the-cap-theorem-series.html) on nuances of the CAP theorem by Nicolas Liochon
 
-# Background and Interview Prep Resources
+# Background and Interview Prep
 
 ## General Guidance for Interviews
+[Excellent post](http://blog.triplebyte.com/how-to-pass-a-programming-interview) on preparing for interview from TripleByte, both technically and strategically
 
 ## Data Structures and Algorithms
 
+### MOOCs
+* [Part 1](https://www.coursera.org/course/algo) and [Part 2](https://www.coursera.org/course/algo2) of Tim Roughgarden's MOOC, based off his Stanford course.
+
+### Books
+* [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/ref=sr_1_1?s=books&ie=UTF8&qid=1460873864&sr=1-1&keywords=cracking+the+coding+interview), with solutions in many languages [here](https://github.com/careercup/ctci)
+
+### Practice Websites
+* [Leetcode Online Judge](https://leetcode.com/)
+* [HackerRank](https://www.hackerrank.com/)
+
 ## SQL and Database Design
 
+### MOOCs
+* [Jennifer Widom's self-paced MOOC](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) from first principles, based off her Stanford course.
+
+### Practice Websites
+* [Leetcode Online Judge](https://leetcode.com/)
+
 ## System Design
+* [Repo](https://github.com/checkcheckzz/system-design-interview) of many sytem design studies, resources, and strategies.
 
 ## Software Engineering Best Practices
 
