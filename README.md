@@ -1,4 +1,6 @@
-Sharing interesting and noteworthy Data Engineering content - namely podcasts, blogs, books, and videos.  This was mostly curated by and for Fellows in the [Insight Data Engineering Fellows Program](http://insightdataengineering.com).  If you have ideas or other interesting resources, feel free to open an Issue or Pull Request.
+Sharing interesting and noteworthy Data Engineering content - namely blogs, podcasts, repos, books, videos, and MOOCs.  This was mostly curated by and for Fellows in the [Insight Data Engineering Fellows Program](http://insightdataengineering.com), and inspired by the [repo](https://github.com/igorbarinov/awesome-data-engineering) of one of our Fellows, Igor Barinov.
+
+If you have ideas or other interesting resources, feel free to open an Issue or Pull Request.
 
 # Table of Contents
 
@@ -24,7 +26,7 @@ All technologies are listed alphabetically in their given section.
 
 ### Hadoop Distributed File System (HDFS)
 
-### Amazon S3
+### S3
 
 #### Blogs
 * [Excellent summary](https://medium.com/@markobonaci/the-history-of-hadoop-68984a11704) of the history of Hadoop by Marco Bonaci.  This post is also [read as a podcast](http://softwareengineeringdaily.com/2016/02/06/history-of-hadoop/) by Software Engineering Daily.
@@ -36,9 +38,9 @@ All technologies are listed alphabetically in their given section.
 
 ### Relational Databases
 
-#### Postgres
-
 #### MySQL
+
+#### Postgres
 
 ### Key-Value Databases
 
@@ -68,12 +70,46 @@ All technologies are listed alphabetically in their given section.
 
 #### Solr
 
-## Batch Processing
+## General Batch Processing
 
 ### Hadoop MapReduce
 
 #### Blogs
 * [Excellent summary](https://medium.com/@markobonaci/the-history-of-hadoop-68984a11704) of the history of Hadoop by Marco Bonaci.  This post is also [read as a podcast](http://softwareengineeringdaily.com/2016/02/06/history-of-hadoop/) by Software Engineering Daily.
+
+### Hadoop Abstractions
+
+#### Cascalog
+
+#### Cascading
+
+#### Hadoop Streaming / mrjob
+
+#### Hive
+
+#### Pig
+
+#### Scalding
+
+### Spark
+
+## Graph Processing
+
+### Giraph
+
+### GraphLab Create
+
+### Spark GraphX
+
+## Machine Learning Tools
+
+### FlinkML
+
+### H2O
+
+### Mahout
+
+### Spark MLlib
 
 ## Stream Processing
 
@@ -102,7 +138,12 @@ All technologies are listed alphabetically in their given section.
 
 ## Ingestion Tools
 
-## Streaming Platforms
+### Flume
+
+### Logstash
+
+
+## Messaging Queues / PubSub
 ### Kafka
 #### Blogs
 * [Part 1](http://www.confluent.io/blog/stream-data-platform-1/) and [Part 2]((http://www.confluent.io/blog/stream-data-platform-2/)) of Jay Krep's on streams in Kafka
@@ -111,6 +152,10 @@ All technologies are listed alphabetically in their given section.
 
 #### Videos
  * [Video] (https://www.youtube.com/watch?v=aJuo_bLSW6s&feature=youtu.be) by Jay Kreps on logs, stream processing and Kafka
+
+### RabbitMQ
+
+### ZeroMQ
 
 ## Workflow and Scheduling
 
@@ -172,6 +217,8 @@ All technologies are listed alphabetically in their given section.
 * [Blog](http://blog.thislongrun.com/2015/03/the-cap-theorem-series.html) on nuances of the CAP theorem by Nicolas Liochon
 
 # Background and Interview Prep
+
+* [Repo](https://github.com/prakhar1989/awesome-courses) of awesome computer science courses.
 
 ## General Guidance for Interviews
 [Excellent post](http://blog.triplebyte.com/how-to-pass-a-programming-interview) on preparing for interview from TripleByte, both technically and strategically
