@@ -64,6 +64,7 @@ All technologies are listed alphabetically in their given section.
 #### Podcasts
 
 #### Videos
+ * [Video] (https://www.youtube.com/watch?v=aJuo_bLSW6s&feature=youtu.be) by Jay Kreps on logs, stream processing and Kafka
 
 ## Workflow and Scheduling
 
@@ -91,6 +92,12 @@ All technologies are listed alphabetically in their given section.
 ### RAFT
 
 ### MapReduce
+
+### Distributed graph and machine learning algorithms
+
+#### Papers
+ * [Paper] (https://www.cs.utah.edu/~lifeifei/papers/mrknnj.pdf) on using z-values for implementing approximate k-nearest neighbors in a MapReduce framework.  There is also a [Background paper](http://cs.sjtu.edu.cn/~yaobin/papers/icde10_knn.pdf) on the topic, describing the non-distributed version.
+ * [Paper] (http://ds.qcri.org/images/profile/tarek_elgamal/sigmod2015.pdf) on sPCA -- Scalable Principal Component Analysis
 
 ### Gossip Protocol
 
