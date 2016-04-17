@@ -78,6 +78,11 @@ All technologies are listed alphabetically in their given section.
 
 ### MapReduce
 
+### Distributed graph and machine learning algorithms
+
+#### Papers
+ * [paper] (https://www.cs.utah.edu/~lifeifei/papers/mrknnj.pdf) on using z-values for implementing approximate k-nearest neighbors in a MapReduce framework.  There is also a [Background paper](http://cs.sjtu.edu.cn/~yaobin/papers/icde10_knn.pdf) on the topic, describing the non-distributed version.
+
 ### Gossip Protocol
 
 ### Chandy-Lamport
