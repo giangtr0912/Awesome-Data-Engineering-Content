@@ -253,3 +253,6 @@ All technologies are listed alphabetically in their given section.
 ## Learning Linux Commands
 
 ## Operating Systems and Networking
+
+* Excellent [Review](https://blog.acolyer.org/2016/04/26/the-linux-scheduler-a-decade-of-wasted-cores/) of Fair Scheduling in Linux from The Morning Paper. 
+* [Blog](http://eng.localytics.com/performance-in-big-data-land-every-cpu-cycle-matters-part-1/) on the impact of saving CPU cycles while processing billions of records and the [effects of tuning CPU](http://eng.localytics.com/performance-in-big-data-land-every-cpu-cycle-matters-part-2/) from the Localytics engineering team.
