@@ -53,6 +53,9 @@ All technologies are listed alphabetically in their given section.
 #### Accumulo
 
 #### Cassandra
+##### Blogs
+
+* [Nice post](http://www.planetcassandra.org/blog/we-shall-have-order/) about using `clustering order by` in Cassandra
 
 #### HBase
 
