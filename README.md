@@ -148,6 +148,8 @@ All technologies are listed alphabetically in their given section.
 #### Blogs
 * [Part 1](http://www.confluent.io/blog/stream-data-platform-1/) and [Part 2]((http://www.confluent.io/blog/stream-data-platform-2/)) of Jay Krep's on streams in Kafka
 
+* [Part 1](https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics/) of series of 3 blogs on how Datadog monitors Kafka
+
 #### Podcasts
 
 #### Videos
