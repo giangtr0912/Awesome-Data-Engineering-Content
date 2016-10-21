@@ -56,6 +56,7 @@ All technologies are listed alphabetically in their given section.
 ##### Blogs
 
 * [Nice post](http://www.planetcassandra.org/blog/we-shall-have-order/) about using `clustering order by` in Cassandra
+* [Post](http://www.datastax.com/dev/blog/basic-rules-of-cassandra-data-modeling) by Datastax about basics of data modeling in Cassandra
 
 #### HBase
 
